@@ -1,0 +1,6 @@
+{
+  "name": "Manila Bay Condo 3D Virtual Tour - RestEasy Breeze Residences",
+  "description": "Fullscreen 3D cinematic high quality 360° virtual tour experience of Manila Bay Condo at Breeze Residences 37th Floor, Roxas Boulevard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
